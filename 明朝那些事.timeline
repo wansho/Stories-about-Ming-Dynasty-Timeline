@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>1.18.0 (79f839faeb70 2018-07-31)</version>
+  <timetype>gregoriantime</timetype>
+  <categories>
+    <category>
+      <name>永乐年间</name>
+      <color>255,0,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>洪熙年间</name>
+      <color>255,128,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>明宣宗-宣德年间</name>
+      <color>255,255,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>2019-01-29 17:12:53</start>
+      <end>2019-01-29 17:12:53</end>
+      <text>[2]永乐年间</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>永乐年间</category>
+    </event>
+    <event>
+      <start>-1423-07-01 17:08:00</start>
+      <end>-1423-07-01 17:08:00</end>
+      <text></text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>朱棣驾崩</description>
+      <default_color>255,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>1424-07-01 00:00:00</start>
+      <end>1424-07-01 00:00:00</end>
+      <text>朱棣去世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>永乐年间</category>
+      <description>朱棣去世，朱高炽即位，太子已监国20年。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1424-07-01 00:00:00</start>
+      <end>1425-05-01 00:00:00</end>
+      <text>洪熙年间</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>洪熙年间</category>
+      <description>皇帝：朱高炽。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1425-05-01 00:00:00</start>
+      <end>1425-05-01 00:00:00</end>
+      <text>朱高炽病逝，朱瞻基登基</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>洪熙年间</category>
+      <description>监国20年，只做了十个月的皇帝，为人忠厚，死因成谜，死时年仅四十八岁。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1426-08-10 00:00:00</start>
+      <end>1426-08-10 00:00:00</end>
+      <text>朱瞻基御驾亲征朱高煦</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>明宣宗-宣德年间</category>
+      <description>朱高煦造反，朱瞻基御驾亲征其叔父</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1426-11-01 00:00:00</start>
+      <end>1426-11-01 00:00:00</end>
+      <text>朱瞻基下令让太监读书</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>明宣宗-宣德年间</category>
+      <description>为了制衡文官集团，下令让太监读书，帮助批红，票拟权还是归属于内阁大臣。
+从而种下祸根。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1435-01-01 00:00:00</start>
+      <end>1435-01-01 00:00:00</end>
+      <text>朱瞻基去世，朱祁镇登基</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>明宣宗-宣德年间</category>
+      <description>朱瞻基死时年仅三十八岁，和他父亲朱高炽一样，是个好皇帝，史称仁宣之治。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1425-05-01 00:00:00</start>
+      <end>1435-01-01 00:00:00</end>
+      <text>宣德年间</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>明宣宗-宣德年间</category>
+      <description>皇帝：朱瞻基。
+宣德年间帝国空前繁荣强大，但是也为后来埋下了不少祸根。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>1412-10-02 23:39:14</start>
+      <end>1454-01-24 03:43:25</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>
