@@ -24,12 +24,26 @@
       <done_color>255,153,153</done_color>
       <font_color>0,0,0</font_color>
     </category>
+    <category>
+      <name>景泰年间</name>
+      <color>128,255,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>正统年间</name>
+      <color>128,64,64</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
   </categories>
   <events>
     <event>
       <start>2019-01-29 17:12:53</start>
       <end>2019-01-29 17:12:53</end>
-      <text>[2]永乐年间</text>
+      <text>[4]永乐年间</text>
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
@@ -132,11 +146,193 @@
 宣德年间帝国空前繁荣强大，但是也为后来埋下了不少祸根。</description>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>1442-10-01 00:00:00</start>
+      <end>1442-10-01 00:00:00</end>
+      <text>张太皇太后去世；朱祁镇迎娶钱皇后</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <description>王振夺权路上最大的障碍没了；</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1436-02-01 00:00:00</start>
+      <end>1436-02-01 00:00:00</end>
+      <text>张太皇太后训斥王振</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1441-01-01 00:00:00</start>
+      <end>1441-01-01 00:00:00</end>
+      <text>张太皇太后病危，太监王振控制了朝政大权</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-07-03 00:00:00</start>
+      <end>1449-07-03 00:00:00</end>
+      <text>蒙古也先向大明帝国发起进攻</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-07-17 00:00:00</start>
+      <end>1449-07-17 00:00:00</end>
+      <text>朱祁镇御驾亲征也先</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-01 00:00:00</start>
+      <end>1449-08-01 00:00:00</end>
+      <text>大军到达大同，王振害怕，命令班师</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-13 00:00:00</start>
+      <end>1449-08-13 00:00:00</end>
+      <text>大军到达土木堡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-15 00:00:00</start>
+      <end>1449-08-15 00:00:00</end>
+      <text>大军崩溃</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <description>二十万人溃败；朱祁镇被俘；四朝老臣张辅被杀；
+数十年之积累，数十年之人才，一扫而光。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-18 00:00:00</start>
+      <end>1449-08-18 00:00:00</end>
+      <text>朱祁玉暂代皇帝，在于谦的建议下，决定固守北京</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-19 00:00:00</start>
+      <end>1449-08-19 00:00:00</end>
+      <text>于谦进行总动员并调兵来京</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-23 00:00:00</start>
+      <end>1449-08-23 00:00:00</end>
+      <text>群臣在朝上殴打王振同党</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <description>于谦及时保住了各位大臣的性命，获得大家的认可。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-09-06 00:00:00</start>
+      <end>1449-09-06 00:00:00</end>
+      <text>朱祁玉取代朱祁镇登基</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1435-01-01 00:00:00</start>
+      <end>1449-09-06 00:00:00</end>
+      <text>正统年间</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间</category>
+      <description>皇帝：朱祁镇</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-08-21 00:00:00</start>
+      <end>1449-09-30 00:00:00</end>
+      <text>也先携朱祁镇勒索大明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-10-01 00:00:00</start>
+      <end>1449-10-01 00:00:00</end>
+      <text>也先率军来到北京城下</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-10-08 00:00:00</start>
+      <end>1449-10-08 00:00:00</end>
+      <text>于谦下达总动员</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间</category>
+      <description>兵部尚书于谦下达总动员；军战连坐法；背水一战；</description>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>1412-10-02 23:39:14</start>
-      <end>1454-01-24 03:43:25</end>
+      <start>1449-06-07 15:56:35</start>
+      <end>1450-01-23 06:02:45</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
