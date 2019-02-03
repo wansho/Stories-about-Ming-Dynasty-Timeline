@@ -4,51 +4,77 @@
   <timetype>gregoriantime</timetype>
   <categories>
     <category>
-      <name>永乐年间</name>
+      <name>永乐年间-朱棣</name>
       <color>255,0,0</color>
       <progress_color>255,153,153</progress_color>
       <done_color>255,153,153</done_color>
       <font_color>0,0,0</font_color>
     </category>
     <category>
-      <name>洪熙年间</name>
+      <name>洪熙年间-朱高炽</name>
       <color>255,128,128</color>
       <progress_color>255,153,153</progress_color>
       <done_color>255,153,153</done_color>
       <font_color>0,0,0</font_color>
     </category>
     <category>
-      <name>明宣宗-宣德年间</name>
+      <name>宣德年间-朱瞻基</name>
       <color>255,255,128</color>
       <progress_color>255,153,153</progress_color>
       <done_color>255,153,153</done_color>
       <font_color>0,0,0</font_color>
     </category>
     <category>
-      <name>景泰年间</name>
+      <name>景泰年间-朱祁钰</name>
       <color>128,255,128</color>
       <progress_color>255,153,153</progress_color>
       <done_color>255,153,153</done_color>
       <font_color>0,0,0</font_color>
     </category>
     <category>
-      <name>正统年间</name>
+      <name>正统年间-朱祁镇</name>
       <color>128,64,64</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>嘉靖皇帝-朱厚熜</name>
+      <color>192,192,192</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>天顺年间-朱祁镇</name>
+      <color>128,64,64</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>正德年间-朱厚照</name>
+      <color>64,128,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>成化年间-朱见深</name>
+      <color>0,128,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>弘治年间-朱祐樘</name>
+      <color>128,0,255</color>
       <progress_color>255,153,153</progress_color>
       <done_color>255,153,153</done_color>
       <font_color>0,0,0</font_color>
     </category>
   </categories>
   <events>
-    <event>
-      <start>2019-01-29 17:12:53</start>
-      <end>2019-01-29 17:12:53</end>
-      <text>[4]永乐年间</text>
-      <fuzzy>False</fuzzy>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>永乐年间</category>
-    </event>
     <event>
       <start>-1423-07-01 17:08:00</start>
       <end>-1423-07-01 17:08:00</end>
@@ -68,7 +94,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>永乐年间</category>
+      <category>永乐年间-朱棣</category>
       <description>朱棣去世，朱高炽即位，太子已监国20年。</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -80,8 +106,11 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>洪熙年间</category>
-      <description>皇帝：朱高炽。</description>
+      <category>洪熙年间-朱高炽</category>
+      <description>好皇帝：明仁宗
+好人：为人宽厚
+
+明朝最强内阁，三杨：杨士奇，杨荣，杨溥</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -92,7 +121,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>洪熙年间</category>
+      <category>洪熙年间-朱高炽</category>
       <description>监国20年，只做了十个月的皇帝，为人忠厚，死因成谜，死时年仅四十八岁。</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -104,7 +133,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>明宣宗-宣德年间</category>
+      <category>宣德年间-朱瞻基</category>
       <description>朱高煦造反，朱瞻基御驾亲征其叔父</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -116,7 +145,7 @@
       <fuzzy>True</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>明宣宗-宣德年间</category>
+      <category>宣德年间-朱瞻基</category>
       <description>为了制衡文官集团，下令让太监读书，帮助批红，票拟权还是归属于内阁大臣。
 从而种下祸根。</description>
       <default_color>192,192,192</default_color>
@@ -129,7 +158,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>明宣宗-宣德年间</category>
+      <category>宣德年间-朱瞻基</category>
       <description>朱瞻基死时年仅三十八岁，和他父亲朱高炽一样，是个好皇帝，史称仁宣之治。</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -141,9 +170,15 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>明宣宗-宣德年间</category>
-      <description>皇帝：朱瞻基。
-宣德年间帝国空前繁荣强大，但是也为后来埋下了不少祸根。</description>
+      <category>宣德年间-朱瞻基</category>
+      <description>明朝最强内阁，三杨：杨士奇，杨荣，杨溥
+
+好皇帝
+好人
+
+朱瞻基在位期间奠定了文官和太监两个集团对立的局面，前者负责票拟，后者帮助皇帝批红。两个集团互相制衡。
+
+宣德年间帝国空前繁荣强大，但是也为后来埋下了不少祸根。例如下令让太监读书，让太监王振教导太子读书</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -154,7 +189,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <description>王振夺权路上最大的障碍没了；</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -166,7 +201,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -177,7 +212,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -188,7 +223,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -199,7 +234,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -210,7 +245,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -221,7 +256,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -232,7 +267,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <description>二十万人溃败；朱祁镇被俘；四朝老臣张辅被杀；
 数十年之积累，数十年之人才，一扫而光。</description>
       <default_color>192,192,192</default_color>
@@ -245,7 +280,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -256,7 +291,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -267,7 +302,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
+      <category>正统年间-朱祁镇</category>
       <description>于谦及时保住了各位大臣的性命，获得大家的认可。</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -279,19 +314,20 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>景泰年间</category>
+      <category>景泰年间-朱祁钰</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
       <start>1435-01-01 00:00:00</start>
       <end>1449-09-06 00:00:00</end>
-      <text>正统年间</text>
+      <text>正统年间-朱祁镇</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>正统年间</category>
-      <description>皇帝：朱祁镇</description>
+      <category>正统年间-朱祁镇</category>
+      <description>坏皇帝：听信小人王振谗言
+好人</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -302,7 +338,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>景泰年间</category>
+      <category>景泰年间-朱祁钰</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -313,7 +349,7 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>景泰年间</category>
+      <category>景泰年间-朱祁钰</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -324,8 +360,882 @@
       <fuzzy>False</fuzzy>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>景泰年间</category>
+      <category>景泰年间-朱祁钰</category>
       <description>兵部尚书于谦下达总动员；军战连坐法；背水一战；</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-10-11 00:00:00</start>
+      <end>1449-10-11 00:00:00</end>
+      <text>于谦率领明军与也先开战，也先战败</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1450-01-01 00:00:00</start>
+      <end>1450-01-01 00:00:00</end>
+      <text>朱祁镇设计除掉汉奸喜宁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1450-12-01 00:00:00</start>
+      <end>1450-12-01 00:00:00</end>
+      <text>朱祁镇归来</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <description>杨善凭借三寸不烂之舌，不费一兵一卒，一砖一瓦，就把朱祁镇从也先那里接回来</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1452-05-01 00:00:00</start>
+      <end>1452-05-01 00:00:00</end>
+      <text>朱祁钰废掉皇太子朱见深</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <description>朱见深为朱祁镇之子，万氏对其不离不弃。
+朱祁钰立其子朱见济为太子。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1453-11-01 00:00:00</start>
+      <end>1453-11-01 00:00:00</end>
+      <text>朱祁钰之子太子朱见济去世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-01-01 00:00:00</start>
+      <end>1457-01-01 00:00:00</end>
+      <text>朱祁钰病重</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-01-11 00:00:00</start>
+      <end>1457-01-11 00:00:00</end>
+      <text>徐有贞，曹吉祥，石亨密谋夺权，推举朱祁镇复辟</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-01-17 00:00:00</start>
+      <end>1457-01-17 00:00:00</end>
+      <text>朱祁镇复辟成功</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-01-23 00:00:00</start>
+      <end>1457-01-23 00:00:00</end>
+      <text>于谦被徐有贞陷害，斩决</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <description>朱祁镇听信谗言，杀害功臣于谦。
+千锤万凿出深山，
+烈火焚烧若等闲。
+粉骨碎身浑不怕，
+要留清白在人间。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-02-01 00:00:00</start>
+      <end>1457-02-01 00:00:00</end>
+      <text>朱祁镇改国号：天顺</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>天顺年间-朱祁镇</category>
+      <description>小人：徐有贞，石亨，曹吉祥
+皇后：钱皇后
+名称：李贤，设计杀掉还乡团，给于谦报仇。
+
+首辅：徐有贞
+叛变：曹吉祥</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-09-06 00:00:00</start>
+      <end>1457-01-31 00:00:00</end>
+      <text>景泰年间-朱祁钰</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>景泰年间-朱祁钰</category>
+      <description>在任 9 年
+坏人：六亲不认，陷害亲哥
+好皇帝：和于谦守住了大明的江山
+
+名臣：兵部尚书于谦</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-05-23 00:00:00</start>
+      <end>1457-05-23 00:00:00</end>
+      <text>曹吉祥和石亨斗垮徐有贞</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>天顺年间-朱祁镇</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1460-01-01 00:00:00</start>
+      <end>1460-01-01 00:00:00</end>
+      <text>石亨入狱，后惨死狱中</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>天顺年间-朱祁镇</category>
+      <description>李贤送了助攻，戳穿了徐有贞，石亨，曹吉祥三人表面上夺门有功，实则拿朱祁镇的性命冒险的事实</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1461-07-02 00:00:00</start>
+      <end>1461-07-02 00:00:00</end>
+      <text>曹吉祥造反</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>天顺年间-朱祁镇</category>
+      <description>吴瑾和孙镗力战叛军，最终保住朱祁镇皇位</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1466-01-01 00:00:00</start>
+      <end>1466-01-01 00:00:00</end>
+      <text>李贤病逝</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>名留青史。史赞：伟哉！宰相才也</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1464-01-01 00:00:00</start>
+      <end>1464-01-01 00:00:00</end>
+      <text>朱祁镇去世，朱见深即位</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>天顺年间-朱祁镇</category>
+      <description>享年 38 岁；
+朱见深十八岁当皇帝。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1457-02-01 00:00:00</start>
+      <end>1464-01-01 00:00:00</end>
+      <text>天顺年间-朱祁镇</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>天顺年间-朱祁镇</category>
+      <description>好人：心地善良
+不是好皇帝：宠幸王振，打过败仗，当过俘虏，做过囚徒，杀过忠臣</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1447-01-01 00:00:00</start>
+      <end>1447-01-01 00:00:00</end>
+      <text>朱见深出生</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间-朱祁镇</category>
+      <description>母亲：周贵妃</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1449-01-01 00:00:00</start>
+      <end>1449-01-01 00:00:00</end>
+      <text>朱见深被孙皇后立为太子</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正统年间-朱祁镇</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1466-01-01 00:00:00</start>
+      <end>1466-01-01 00:00:00</end>
+      <text>万妃产下一子</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1467-01-01 00:00:00</start>
+      <end>1467-01-01 00:00:00</end>
+      <text>万妃所生太子去世</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>从此万妃心情大变，在后宫兴风作浪，逼迫他人堕胎。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1465-01-01 00:00:00</start>
+      <end>1465-01-01 00:00:00</end>
+      <text>韩雍平定两广叛乱，带回纪妃和汪直</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1469-10-01 00:00:00</start>
+      <end>1469-10-01 00:00:00</end>
+      <text>纪姑娘与朱见深相遇，被临幸，怀上龙种</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1470-07-02 00:00:00</start>
+      <end>1470-07-02 00:00:00</end>
+      <text>纪姑娘产下一男婴</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>万妃知道后下令除掉男婴，被张敏保住性命并抚养长大</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1475-05-01 00:00:00</start>
+      <end>1475-05-01 00:00:00</end>
+      <text>张敏告知朱见深已有儿子，被取名朱祐樘</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1487-08-01 00:00:00</start>
+      <end>1487-08-01 00:00:00</end>
+      <text>朱见深去世，太子朱祐樘登基</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>享年 41 岁</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1464-01-01 00:00:00</start>
+      <end>1488-01-01 00:00:00</end>
+      <text>成化年间-朱见深</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>在任 25 年，年少多灾多难，不是一个好皇帝，也不是一个好人，他是一个懦弱的人，一直是一个孤独无助的孩子。
+
+后宫：宠幸万妃；
+春药派：梁芳
+仙派：李孜省
+监派：东厂尚铭，西厂汪直
+混派：万安，刘吉
+
+
+名臣：商辂（首辅）
+好太监：怀恩</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1487-01-01 00:00:00</start>
+      <end>1487-01-01 00:00:00</end>
+      <text>万妃去世，朱见深备受打击</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>万妃陪伴朱见深 38 年，从朱见深 2 岁 到 40 岁。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1478-02-02 00:00:00</start>
+      <end>1478-02-02 00:00:00</end>
+      <text>商辂退休回家，万安成为首辅</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1477-02-02 00:00:00</start>
+      <end>1477-02-02 00:00:00</end>
+      <text>朱见深批准汪直设计西厂</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1487-02-02 00:00:00</start>
+      <end>1487-02-02 00:00:00</end>
+      <text>汪直和尚铭被斗败</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1485-03-02 00:00:00</start>
+      <end>1485-03-02 00:00:00</end>
+      <text>朱见深打算废太子朱祐樘</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <description>听信万妃和梁芳的谗言</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1485-04-03 00:00:00</start>
+      <end>1485-04-03 00:00:00</end>
+      <text>泰山地震，天佑朱祐樘</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1488-01-01 00:00:00</start>
+      <end>1488-01-01 00:00:00</end>
+      <text>弘治元年</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <description>驱逐奸臣，迎回怀恩，感谢吴皇后，任用能臣：王恕，马文升。
+
+刘健入阁</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1496-01-01 00:00:00</start>
+      <end>1496-01-01 00:00:00</end>
+      <text>李东阳，谢迁入阁</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1498-01-01 00:00:00</start>
+      <end>1498-01-01 00:00:00</end>
+      <text>唐寅参加应天府乡试，获第一名</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1499-01-01 00:00:00</start>
+      <end>1499-01-01 00:00:00</end>
+      <text>唐寅进京赶考</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <description>因徐经作弊，受牵连。
+徐经后代：徐霞客</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1505-05-01 00:00:00</start>
+      <end>1505-05-01 00:00:00</end>
+      <text>朱祐樘去世，年仅 36 岁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <description>朱厚照即位，年仅 15 岁</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1488-01-01 00:00:00</start>
+      <end>1505-05-01 00:00:00</end>
+      <text>弘治年间-朱祐樘</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <description>好皇帝，好人，短命皇帝，在任 18 年。
+
+内阁三能人：
+刘健：擅断
+李东阳：擅谋
+谢迁：擅侃
+
+吏部：马文升
+兵部：刘大夏</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1502-01-01 00:00:00</start>
+      <end>1502-01-01 00:00:00</end>
+      <text>刘大夏推荐杨一清坐镇边疆</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1506-10-02 00:00:00</start>
+      <end>1506-10-02 00:00:00</end>
+      <text>正德初年，内阁弹劾八虎失败，只剩李东阳</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>国防部长刘大夏和人事部长王恕因劝说朱厚照被免职；
+八虎首领：刘瑾（八虎均为宦臣）</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1472-01-01 00:00:00</start>
+      <end>1472-01-01 00:00:00</end>
+      <text>王守仁诞生！</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1501-01-01 00:00:00</start>
+      <end>1501-01-01 00:00:00</end>
+      <text>王守仁调到刑部</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>弘治年间-朱祐樘</category>
+      <description>司法部</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1507-01-01 00:00:00</start>
+      <end>1507-01-01 00:00:00</end>
+      <text>刘瑾打算整死刘健和谢迁，李东阳出手相救</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1471-01-01 00:00:00</start>
+      <end>1471-01-01 00:00:00</end>
+      <text>杨延和十二岁中举</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>成化年间-朱见深</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1507-01-01 00:00:00</start>
+      <end>1507-01-01 00:00:00</end>
+      <text>杨延和进入内阁</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>刘健和谢迁已被赶走，代皇帝写文书；
+杨延和给皇帝讲课，是皇帝的老师。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1510-04-01 00:00:00</start>
+      <end>1510-04-01 00:00:00</end>
+      <text>藩王叛乱，杨一清奉命平叛</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1510-08-15 00:00:00</start>
+      <end>1510-08-15 00:00:00</end>
+      <text>刘瑾被抓</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1510-08-17 00:00:00</start>
+      <end>1510-08-17 00:00:00</end>
+      <text>太监刘瑾被凌迟处死</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>欲行不轨，谋反罪名成立</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1512-01-01 00:00:00</start>
+      <end>1512-01-01 00:00:00</end>
+      <text>李东阳退休，杨延和接任</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1516-02-03 00:00:00</start>
+      <end>1516-02-03 00:00:00</end>
+      <text>李东阳去世</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>名臣，享年 71</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1514-02-03 00:00:00</start>
+      <end>1514-02-03 00:00:00</end>
+      <text>杨延和父亲去世，回家守孝三年，朱厚照出关</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1517-10-01 00:00:00</start>
+      <end>1517-10-01 00:00:00</end>
+      <text>朱厚照率兵打败小王子</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1510-10-03 00:00:00</start>
+      <end>1510-10-03 00:00:00</end>
+      <text>王守仁被重新启用，任命庐陵知县</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>刘瑾死后被重新启用，正德五年</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1517-01-01 00:00:00</start>
+      <end>1517-01-01 00:00:00</end>
+      <text>王守仁巡抚江西，开始剿匪</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1523-02-03 00:00:00</start>
+      <end>1523-02-03 00:00:00</end>
+      <text>唐寅去世</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>嘉靖皇帝-朱厚熜</category>
+      <description>别人笑我太疯癫，我笑他人看不穿；
+不见五陵豪杰墓，无花无酒锄作田。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-06-14 00:00:00</start>
+      <end>1519-06-14 00:00:00</end>
+      <text>宁王大寿，杀孙燧</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-07-03 00:00:00</start>
+      <end>1519-07-03 00:00:00</end>
+      <text>宁王开始进攻南京，王守仁正式起兵</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>正德十四年，王守仁起兵攻击宁王老巢-南昌</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-07-23 00:00:00</start>
+      <end>1519-07-23 00:00:00</end>
+      <text>宁王自安庆撤兵，与王守仁在鄱阳湖大战</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-07-24 00:00:00</start>
+      <end>1519-07-24 00:00:00</end>
+      <text>宁王与王守仁第二战</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-07-27 00:00:00</start>
+      <end>1519-07-27 00:00:00</end>
+      <text>宁王战败</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>历时35天，王守仁白手起家，打败宁王</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-08-01 00:00:00</start>
+      <end>1519-08-01 00:00:00</end>
+      <text>朱厚照出征宁王</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>江彬隐瞒捷报，将皇帝引诱出来，意图谋反</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-09-03 00:00:00</start>
+      <end>1519-09-03 00:00:00</end>
+      <text>王守仁押解宁王来到杭州，将宁王交给张永</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1519-12-03 00:00:00</start>
+      <end>1519-12-03 00:00:00</end>
+      <text>朱厚照到达南京</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1520-06-03 00:00:00</start>
+      <end>1520-06-03 00:00:00</end>
+      <text>朱厚照于牛首山失踪</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1520-08-03 00:00:00</start>
+      <end>1520-08-03 00:00:00</end>
+      <text>朱厚照踏上归途</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1520-09-20 00:00:00</start>
+      <end>1520-09-20 00:00:00</end>
+      <text>朱厚照于清江浦钓鱼时落水，半条命没了</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1521-03-01 00:00:00</start>
+      <end>1521-03-01 00:00:00</end>
+      <text>朱厚照去世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>无后</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1505-05-01 00:00:00</start>
+      <end>1521-03-01 00:00:00</end>
+      <text>正德年间-朱厚照</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>正德年间-朱厚照</category>
+      <description>玩主，聪明，不是个好皇帝，反抗皇权
+
+朱厚照之所以没有把江山玩掉，是因为手下有一批名臣。
+
+名臣：王守仁，杨延和，杨一清，李东阳
+是非之人：张永
+玩伴：江彬，刘瑾（八虎）</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1528-11-01 00:00:00</start>
+      <end>1528-11-01 00:00:00</end>
+      <text>王守仁去世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>嘉靖皇帝-朱厚熜</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1527-05-01 00:00:00</start>
+      <end>1527-05-01 00:00:00</end>
+      <text>王守仁天泉论道</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>嘉靖皇帝-朱厚熜</category>
+      <description>知行合一：王守仁
+无善无恶心之体，有善有恶意之动；
+知善知恶是良知，为善去恶是格物。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1521-04-23 00:00:00</start>
+      <end>1521-04-23 00:00:00</end>
+      <text>朱厚熜来到京城即位</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>嘉靖皇帝-朱厚熜</category>
       <default_color>192,192,192</default_color>
     </event>
   </events>
